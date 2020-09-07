@@ -23,5 +23,3 @@ python main.py \
 
 
 ## And Done Yea :clap:
-
-please click star button 
